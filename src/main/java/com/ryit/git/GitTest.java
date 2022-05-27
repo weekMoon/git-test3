@@ -16,5 +16,7 @@ public class GitTest {
         System.out.println("再次更新!!!");
         System.out.println("最后一次Git更新");
         System.out.println("真的最后一次更新");
+        System.out.println("-----");
+        System.out.println("GitHub更新一下");
     }
 }
