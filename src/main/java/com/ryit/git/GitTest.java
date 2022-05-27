@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("pull test");
         System.out.println("pull test2");
         System.out.println("IDE 更新");
+        System.out.println("更新更新");
     }
 }
